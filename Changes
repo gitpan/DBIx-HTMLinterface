@@ -1,5 +1,11 @@
 Revision history for Perl extension DBIx::HTMLinterface.
 
+0.20  Sat May 14 2000
+        Release 0.20
+        
+        Renamed from DBIx::HTMLinterface to DBIx::glueHTML due to 
+        file name length considerations
+
 0.11  Wed Dec 15 1999
 	Release 0.11
         
